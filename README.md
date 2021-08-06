@@ -1,4 +1,5 @@
-# Simple API in MVC using Express
+# API system based on MVC using Express and Sequelize
+
 
 ### Step 1
 run `npm install`
