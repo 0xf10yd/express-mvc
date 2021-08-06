@@ -16,4 +16,5 @@ run `npx sequelize-cli db:seed:all` to insert data in tables
 ### Step 5
 run `npm start`
 
-#### use the `Postman` to do request and view response.
+P.S: use `Postman` to do request and view response.
+
